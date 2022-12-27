@@ -38,22 +38,153 @@ JavaScript
 
 Project Screen Shots:
 
-Homepage:
+### Home -
+
+![Screenshot (14)](https://user-images.githubusercontent.com/114806453/209651563-5188a3b3-2ca8-43b4-9874-00d359f53269.png)
 
 
 
-Medicines Page:
 
 
 
-Online store page:
 
 
 
-About Project:
+
+### About -
+
+![Screenshot (15)](https://user-images.githubusercontent.com/114806453/209651575-20575277-1a7a-4df2-a70f-354afd87fd0e.png)
 
 
-Azure Medical Help bot:
 
-Contact us page:
+
+
+
+
+
+
+
+
+
+
+
+
+### Medicin -
+
+![Screenshot (16)](https://user-images.githubusercontent.com/114806453/209651621-46f8f446-2795-41af-8830-7078851d4abc.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Online Buy -
+
+
+![Screenshot (18)](https://user-images.githubusercontent.com/114806453/209651631-e93cd468-879c-45bb-a94f-a7e4736c97a3.png)
+
+
+
+
+
+
+
+
+
+### News -
+
+![Screenshot (18)](https://user-images.githubusercontent.com/114806453/209651755-b11e5499-e5c6-4332-99ea-8acf38855747.png)
+
+
+
+
+
+
+
+
+
+
+
+
+### Contact Us -
+
+![Screenshot (19)](https://user-images.githubusercontent.com/114806453/209651732-4dbd75f8-b314-48da-9a45-21a04ecd203c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Health Bot -
+![Screenshot (20)](https://user-images.githubusercontent.com/114806453/209651783-8fbd5e27-8d30-4f57-b942-7741c93d897c.png)
+
+![Screenshot (21)](https://user-images.githubusercontent.com/114806453/209651793-95bdac71-99b0-4e96-80cd-216bd719e59e.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/114806453/209651800-eeda5ad9-bbbe-48c7-ae2d-7b844752f831.png)
+
+![Screenshot (23)](https://user-images.githubusercontent.com/114806453/209651807-209fb6c6-e4e0-429b-9453-855221b8e74a.png)
+
+![Screenshot (24)](https://user-images.githubusercontent.com/114806453/209651829-7a946d24-4bb5-42fe-bea2-129e822785fe.png)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/114806453/209651835-9386fb5e-c9ee-4633-bb34-02b24fb78456.png)
+
+![Screenshot (26)](https://user-images.githubusercontent.com/114806453/209651849-d2e98c31-298f-4da1-84a3-85e1e9411e2a.png)
+
+![Screenshot (29)](https://user-images.githubusercontent.com/114806453/209651877-a2fa4ed5-1069-46b0-a716-ea4b74f6a010.png)
+
+
+
+
+
+
+
+### Azure Static Web Apps -
+
+![Screenshot (30)](https://user-images.githubusercontent.com/114806453/209651887-ab35feff-5346-4664-ae1a-a6795e6c7b1e.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Azure Health Bot -
+
+![Screenshot (31)](https://user-images.githubusercontent.com/114806453/209651895-59a1ce93-0178-46b3-8bb4-57afaa2513d4.png)
+
+
+
+
+
+
+
+
 
