@@ -6,8 +6,11 @@
 # Project Links:
 
 Github Reposistory Link:https://github.com/MamathaThandu/Median-online-medical-store
+
 Github Project Link:https://mamathathandu.github.io/Median-online-medical-store/
+
 Azure project Link: https://ashy-bush-0e12b4d10.2.azurestaticapps.net
+
 Azure bot Link: https://eastus.healthbot.microsoft.com/account/medicalhealhbot-1q6jl3t
 
 # Industry*:Health
