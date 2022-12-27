@@ -69,7 +69,7 @@ Project Screen Shots:
 
 
 
-### Medicin -
+### Medicine -
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/114806453/209651621-46f8f446-2795-41af-8830-7078851d4abc.png)
 
@@ -92,9 +92,10 @@ Project Screen Shots:
 
 
 ### Online Buy -
+![Screenshot (17)](https://user-images.githubusercontent.com/114806453/209652120-03067cd6-983c-4b4d-9b88-b51270138f9a.png)
 
 
-![Screenshot (18)](https://user-images.githubusercontent.com/114806453/209651631-e93cd468-879c-45bb-a94f-a7e4736c97a3.png)
+
 
 
 
